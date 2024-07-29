@@ -6,6 +6,8 @@ The top charts of the dashboard contains the most important KPI’s.
 You can navigate through the dashboard using the menu on the right. 
 Each chart shows the most important trends, figures and numbers.
 
+<image src="/Dashboard_2.png" alt="Logistics Dashboard">
+  
 ## GOAL
 
 The purpose of a dashboard is to review the most important KPI’s and results on the one page. 
